@@ -9,24 +9,29 @@ h1 {
     transform: translateY(300%);
 }
 
-body {
+h4 {
     color: white;
+    font-weight: 300;
+    font-size: 18px;
     background-color: black;
     font-family: 'Roboto', sans-serif;
-    position: relative;
     text-align: left;
     padding: 200pt
 }
 
+body {
+    background-color: black;
+}
+
 .parallax {
   /* The image used */
-  background-image: url("https://scontent-sjc3-1.cdninstagram.com/vp/de85f8545a69c8b0e9ccf8246a1e51d4/5D0D57F0/t51.2885-15/e35/43533091_2039996202688872_5617399548869130200_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com");
+  background-image: url(thumbnail.jpg);
   background-color: #b40000;
   background-blend-mode: multiply;
   width: 100%;
   position: absolute;
   top: 0;
-  left: 0px;
+  left: 0;
 
   /*  height */
   min-height: 1080px; 
@@ -53,13 +58,11 @@ footer {
     background-color: black;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-weight: 400;
     font-size: 8pt;
     margin-top:100pt;
     padding: 0pt
 }
-
-
 
 ul li {
     float: left;
@@ -73,25 +76,21 @@ ul li {
 }
 
 ul li:hover {
+    font-kerning: auto;
     font-weight: 600;
 }
-
-
-
-
 
 ul {
 }
 
 header {
+    font-family: 'Roboto', sans-serif;
     float: left;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
 }
-
-
 
 a {
     color: white;
