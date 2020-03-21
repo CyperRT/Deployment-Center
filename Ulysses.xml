@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Ulysses Audiobook</title>
+  <description>Cyper's Deployment Program </description> 
+  <item>
+    <title>Telemachus</title>
+    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
+    <description>Stately plump</description>
+  </item>
+
+</channel>
+
+</rss> 
