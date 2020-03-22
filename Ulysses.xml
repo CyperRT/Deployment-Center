@@ -5,12 +5,12 @@ xmlns:dcterms="https://purl.org/dc/terms/"
 xmlns:spotify="https://www.spotify.com/ns/rss"
 xmlns:psc="https://podlove.org/simple-chapters/"
      version="2.0">
-<itunes:author>Cyper</itunes:author>
 <channel>
   <title>Ulysses Audiobook</title>
   <description>Cyper's Deployment Program </description>
   <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
-  <itunes:image href="/Ulysses/Ulysses.jpg"/>
+  <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
+  <itunes:author>Cyper</itunes:author>
   <itunes:explicit>yes</itunes:explicit>
   <item>
     <title>Telemachus</title>
