@@ -5,7 +5,7 @@ xmlns:dcterms="https://purl.org/dc/terms/"
 xmlns:spotify="https://www.spotify.com/ns/rss"
 xmlns:psc="https://podlove.org/simple-chapters/"
      version="2.0">
-
+<itunes:author>Cyper</itunes:author>
 <channel>
   <title>Ulysses Audiobook</title>
   <description>Cyper's Deployment Program </description>
@@ -16,96 +16,10 @@ xmlns:psc="https://podlove.org/simple-chapters/"
     <title>Telemachus</title>
     <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
     <description>Stately plump</description>
-    <author>cyperhunterps3@gmail.com</author>
+    <author>Cyper</author>
     <guid isPremaLink="true">
-    Ideas-of-the-Great-Philosophers</guid>
+    https://cyperrt.github.io/Deployment-Center/Ulysses/01__Telemachus.mp3</guid>
   </item>
-  <item>
-    <title>Nestor</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Proteus</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Calypso</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Lotus Eaters</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Hades</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Aeolus</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Lestrygonians</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Scylla and Charybdis</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Wandering Rocks</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Sierens</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Cyclops</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Nausica</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Oxen of the Sun</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Circe</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Eumaeus</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Ithica</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-  <item>
-    <title>Penelope</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
-    <description>Stately plump</description>
-  </item>
-
 </channel>
 
 </rss> 
