@@ -30,17 +30,18 @@ h4 {
     background-color: black;
     font-family: 'Roboto', sans-serif;
     text-align: left;
-    padding: 175pt
+    padding: 180pt
 }
 
 body {
     background-color: black;
-    background-blend-mode: darken;
 }
 
 .parallax {
   /* The image used */
   background-image: url(Press.jpg);
+  background-color: #704214;
+  background-blend-mode: multiply;
   width: 100%;
   position: absolute;
   top: 0;
