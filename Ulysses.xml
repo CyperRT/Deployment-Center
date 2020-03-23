@@ -7,23 +7,22 @@ xmlns:psc="https://podlove.org/simple-chapters/"
      version="2.0">
 <channel>
   <title>Ulysses Audiobook</title>
-  <description>Cyper's Deployment Program </description>
   <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
-  <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
+  <description>Cyper's Deployment Program</description>
+  <language>en</language>
   <itunes:author>Cyper</itunes:author>
-  <itunes:owner>
-    <itunes:email>richardtrinh12@gmail.com </itunes:email>
-</itunes:owner>
+  <itunes:category text="News & Politics" />
+  <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
+<itunes:explicit>yes</itunes:explicit>
 
-
-  <itunes:explicit>yes</itunes:explicit>
   <item>
+    <guid>https://cyperrt.github.io/Deployment-Center/Ulysses/01__Telemachus.mp3</guid>
     <title>Telemachus</title>
-    <enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
     <description>Stately plump</description>
+    <itunes:order>1</itunes:order>
+    <itunes:duration>45:52</itunes:duration>
+    <enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01__Telemachus.mp3" type="audio/mpeg"/>
     <author>richardtrinh12@gmail.com</author>
-    <guid>
-    https://cyperrt.github.io/Deployment-Center/Ulysses/01__Telemachus.mp3</guid>
   </item>
 </channel>
 
