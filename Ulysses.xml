@@ -11,10 +11,15 @@ xmlns:psc="https://podlove.org/simple-chapters/"
   <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
   <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
   <itunes:author>Cyper</itunes:author>
+  <itunes:owner>
+    <itunes:email>richardtrinh12@gmail.com </itunes:email>
+</itunes:owner>
+
+
   <itunes:explicit>yes</itunes:explicit>
   <item>
     <title>Telemachus</title>
-    <enclosure url="/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
+    <enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01__Telemachus.mp3" length="22035468" type="audio/mpeg"/>
     <description>Stately plump</description>
     <author>Cyper</author>
     <guid isPremaLink="true">
