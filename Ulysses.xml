@@ -11,7 +11,7 @@ xmlns:psc="https://podlove.org/simple-chapters/"
   <description>Cyper's Deployment Program</description>
   <language>en</language>
   <itunes:author>Cyper</itunes:author>
-  <itunes:category text="News & Politics" />
+  <itunes:category text="Arts"/>
   <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
 <itunes:explicit>yes</itunes:explicit>
 
@@ -21,7 +21,7 @@ xmlns:psc="https://podlove.org/simple-chapters/"
     <description>Stately plump</description>
     <itunes:order>1</itunes:order>
     <itunes:duration>45:52</itunes:duration>
-    <enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01__Telemachus.mp3" type="audio/mpeg"/>
+    <enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01__Telemachus.mp3" type="audio/mpeg" length="22035468"/>
     <author>richardtrinh12@gmail.com</author>
   </item>
 </channel>
