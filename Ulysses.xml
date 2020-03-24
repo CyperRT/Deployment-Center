@@ -25,7 +25,7 @@ xmlns:psc="https://podlove.org/simple-chapters/"
     <description>Stately plump</description>
     <itunes:order>1</itunes:order>
     <itunes:duration>45:52</itunes:duration>
-    <enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3" type="audio/mpeg" length="22035468"/>
+    <enclosure url="http://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3" type="audio/mpeg" length="22035468"/>
     <pubDate>Tue, 24 Mar 20 17:27:34 +0000</pubDate>
     <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
     <author>richardtrinh12@gmail.com (RT)</author>
