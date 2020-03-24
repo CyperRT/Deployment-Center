@@ -6,22 +6,20 @@
   <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
   <description>Cyper's Deployment Program</description>
   <language>en</language>
-  <author>Cyper</author>
   <itunes:author>Cyper</itunes:author>
   <itunes:category text="Arts"/>
   <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
 <itunes:explicit>yes</itunes:explicit>
 
   <item>
-    <guid>https://cyperrt.github.io/Deployment-Center/Ulysses/01 Telemachus.mp3</guid>
+    <guid>https://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3</guid>
     <title>Telemachus</title>
     <description>Stately plump</description>
     <itunes:order>1</itunes:order>
     <itunes:duration>45:52</itunes:duration>
-    <enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01 Telemachus.mp3" type="audio/mpeg" length="22035468"/>
+    <enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3" type="audio/mpeg" length="22035468"/>
     <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
-    
-    <author>richardtrinh12@gmail.com</author>
+    <author>richardtrinh12@gmail.com (RT)</author>
   </item>
 </channel>
 </rss> 
