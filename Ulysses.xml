@@ -13,9 +13,14 @@ xmlns:psc="https://podlove.org/simple-chapters/"
   <language>en</language>
   <itunes:owner>
   <itunes:name>Cyper</itunes:name>
-  <itunes:email>richardtrinh12@gmail.com</itunes:email></itunes:owner>
-    
+  <itunes:email>richardtrinh12@gmail.com</itunes:email>
+  </itunes:owner>  
   <itunes:category text="Arts"/>
+  <image>
+      <url>https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg</url>
+      <title>Ulysses Gabler Cover</title>
+      <link>https://cyperrt.github.io/Deployment-Center/</link>
+  </image>
   <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
 <itunes:explicit>yes</itunes:explicit>
 
