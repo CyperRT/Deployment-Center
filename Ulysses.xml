@@ -11,15 +11,16 @@ xmlns:psc="https://podlove.org/simple-chapters/"
   <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
   <description>Cyper's Deployment Program</description>
   <language>en</language>
-  <itunes:category text=" Arts & Entertainment"/>
+  <copyright>None 2020</copyright>
+  <itunes:category text="Arts & Entertainment"/>
   <itunes:owner>
-  <itunes:name>Cyper</itunes:name>
-  <itunes:email>richardtrinh12@gmail.com</itunes:email>
+    <itunes:name>Cyper</itunes:name>
+    <itunes:email>richardtrinh12@gmail.com</itunes:email>
   </itunes:owner>  
   <image>
       <url>https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg</url>
       <title>Ulysses Gabler Cover</title>
-      <link>https://cyperrt.github.io/Deployment-Center/</link>
+      <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
   </image>
   <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
 <itunes:explicit>yes</itunes:explicit>
@@ -30,14 +31,11 @@ xmlns:psc="https://podlove.org/simple-chapters/"
     <description>Stately plump</description>
     <itunes:order>1</itunes:order>
     <itunes:duration>45:52</itunes:duration>
+    <link>http://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
     <enclosure url="http://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3" type="audio/mpeg" length="22035468"/>
     <pubDate>Tue, 24 Mar 20 17:27:34 +0000</pubDate>
     <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
-    <author>richardtrinh12@gmail.com (RT)</author>
-    <itunes:owner>
-        <itunes:name>Cyper</itunes:name>
-        <itunes:email>richardtrinh12@gmail.com</itunes:email>
-  </itunes:owner>
+    <author>richardtrinh12@gmail.com</author>
   </item>
      
  </channel>
