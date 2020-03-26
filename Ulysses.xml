@@ -11,6 +11,7 @@ xmlns:psc="https://podlove.org/simple-chapters/"
   <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
   <description>Cyper's Deployment Program</description>
   <language>en</language>
+  <itunes:category text=" Arts & Entertainment"/>
   <itunes:owner>
   <itunes:name>Cyper</itunes:name>
   <itunes:email>richardtrinh12@gmail.com</itunes:email>
@@ -32,7 +33,6 @@ xmlns:psc="https://podlove.org/simple-chapters/"
     <enclosure url="http://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3" type="audio/mpeg" length="22035468"/>
     <pubDate>Tue, 24 Mar 20 17:27:34 +0000</pubDate>
     <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
-    <itunes:category text="Arts"/>
     <author>richardtrinh12@gmail.com (RT)</author>
     <itunes:owner>
         <itunes:name>Cyper</itunes:name>
