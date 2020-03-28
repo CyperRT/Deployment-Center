@@ -1,38 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
- <channel>
-  <title>Ulysses Audiobook</title>
-  <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
-  <atom:link href="https://cyperrt.github.io/Deployment-Center/Ulysses.xml" rel="self" type="application/rss+xml"/>
-  <description>Cyper's Deployment Program</description>
-  <language>en-us</language>
-  <author>Cyper</author>
-  <itunes:author>Cyper</itunes:author>
-  <itunes:category text="Books"/>
-  <itunes:type>episodic</itunes:type>
-  <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
-  <image>
-      <url>https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg</url>
-      <title>Ulysses Audiobook</title>
-      <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
-  </image>
-  <copyright>Cyper</copyright>
-  <itunes:owner>
-    <itunes:name>Cyper</itunes:name>
-    <itunes:email>richardtrinh12@gmail.com</itunes:email>
-  </itunes:owner>
-<itunes:explicit>yes</itunes:explicit>
-     
-  <item>
-    <guid>https://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3</guid>
-    <title>Telemachus</title>
-    <description>Stately plump</description>
-    <itunes:summary>Stately plump</itunes:summary>
-    <pubDate>Tue, 24 Mar 2020 17:27:34 GMT</pubDate>
-    <itunes:order>1</itunes:order>
-    <itunes:duration>45:52</itunes:duration>
-    <link>http://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
-    <enclosure url="http://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3" type="audio/mpeg" length="22035468"/>
-  </item>
- </channel>
-</rss> 
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[Ulysses Audiobook]]></title>
+		<description><![CDATA[Cyper's Deployment Program]]></description>
+		<link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
+		<image>
+            <url>https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg</url>
+			<title>Ulysses Audiobook</title>
+			<link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
+		</image>
+		<lastBuildDate>Sat, 28 Mar 2020 02:43:02 GMT</lastBuildDate>
+		<author>Cyper</author>
+		<copyright>Cyper</copyright>
+		<language>en-us</language>
+		<itunes:author>Cyper</itunes:author>
+		<itunes:summary>Cyper&apos;s Deployment Program</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Cyper</itunes:name>
+			<itunes:email>richardtrinh12@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:category text="Books"/>
+		<itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
+		<item>
+			<title>Telemachus</title>
+			<description>Stately Plump</description>
+			<link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
+			<guid isPermaLink="true">https://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3</guid>
+			<pubDate>Tue, 24 Mar 2020 17:27:34 GMT</pubDate>
+			<enclosure url="https://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3" length="23282770" type="audio/mpeg"/>
+			<itunes:summary>Stately plump</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
+		</item>
+	</channel>
+</rss>
