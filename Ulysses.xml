@@ -11,11 +11,12 @@ xmlns:spotify="https://www.spotify.com/ns/rss"
   <language>en</language>
   <copyright>None 2020</copyright>
   <itunes:category text="Books"/>
+  <author>Cyper</author>
   <itunes:author>Cyper</itunes:author>
   <itunes:owner>
     <itunes:name>Cyper</itunes:name>
     <itunes:email>richardtrinh12@gmail.com</itunes:email>
-  </itunes:owner>  
+  </itunes:owner>
   <image>
       <url>https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg</url>
       <title>Ulysses Gabler Cover</title>
