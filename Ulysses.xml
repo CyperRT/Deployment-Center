@@ -1,42 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss 
 xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:spotify="https://www.spotify.com/ns/rss"
      version="2.0">
-    
  <channel>
   <title>Ulysses Audiobook</title>
   <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
   <description>Cyper's Deployment Program</description>
   <language>en</language>
-  <copyright>None 2020</copyright>
-  <itunes:category text="Books"/>
-  <author>Cyper</author>
   <itunes:author>Cyper</itunes:author>
-  <itunes:owner>
-    <itunes:name>Cyper</itunes:name>
-    <itunes:email>richardtrinh12@gmail.com</itunes:email>
-  </itunes:owner>
+  <author>Cyper</author>
+  <itunes:category text="Books"/>
+  <itunes:type>episodic</itunes:type>
+  <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
   <image>
       <url>https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg</url>
       <title>Ulysses Gabler Cover</title>
       <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
   </image>
-  <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
+  <copyright>None 2020</copyright>
+  <itunes:owner>
+    <itunes:name>Cyper</itunes:name>
+    <itunes:email>richardtrinh12@gmail.com</itunes:email>
+  </itunes:owner>
 <itunes:explicit>yes</itunes:explicit>
-
   <item>
     <guid>https://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3</guid>
     <title>Telemachus</title>
     <description>Stately plump</description>
+    <pubDate>Tue, 24 Mar 20 17:27:34 +0000</pubDate>
     <itunes:order>1</itunes:order>
     <itunes:duration>45:52</itunes:duration>
     <link>http://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
     <enclosure url="http://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3" type="audio/mpeg" length="22035468"/>
-    <pubDate>Tue, 24 Mar 20 17:27:34 +0000</pubDate>
-    <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
-    <author>richardtrinh12@gmail.com</author>
   </item>
-     
  </channel>
 </rss> 

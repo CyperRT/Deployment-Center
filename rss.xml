@@ -10,11 +10,9 @@
 		</image>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Sat, 28 Mar 2020 02:43:02 GMT</lastBuildDate>
-		<atom:link href="https://anchor.fm/s/1981b258/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Cyper]]></author>
 		<copyright><![CDATA[Cyper]]></copyright>
 		<language><![CDATA[en-us]]></language>
-		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>Cyper</itunes:author>
 		<itunes:summary>Cyper&apos;s Deployment Program</itunes:summary>
 		<itunes:type>episodic</itunes:type>
