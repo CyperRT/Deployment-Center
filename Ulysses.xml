@@ -3,19 +3,20 @@
  <channel>
   <title>Ulysses Audiobook</title>
   <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
-  <atom:link href="https://cyperrt.github.io/Deployment-Center/Ulysses.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://cyperrt.github.io/Deployment-Center/Ulysses.xml" rel="self" type="application/rss+xml"/>
   <description>Cyper's Deployment Program</description>
-  <language>en</language>
+  <language>en-us</language>
+  <author>Cyper</author>
   <itunes:author>Cyper</itunes:author>
   <itunes:category text="Books"/>
   <itunes:type>episodic</itunes:type>
   <itunes:image href="https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg"/>
   <image>
       <url>https://cyperrt.github.io/Deployment-Center/Ulysses/Ulysses.jpg</url>
-      <title>Ulysses Gabler Cover</title>
+      <title>Ulysses Audiobook</title>
       <link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
   </image>
-  <copyright>None 2020</copyright>
+  <copyright>Cyper</copyright>
   <itunes:owner>
     <itunes:name>Cyper</itunes:name>
     <itunes:email>richardtrinh12@gmail.com</itunes:email>
@@ -25,7 +26,8 @@
     <guid>https://cyperrt.github.io/Deployment-Center/Ulysses/01%20Telemachus.mp3</guid>
     <title>Telemachus</title>
     <description>Stately plump</description>
-    <pubDate>Tue, 24 Mar 20 17:27:34 +0000</pubDate>
+    <itunes:summary>Stately plump</itunes:summary>
+    <pubDate>Tue, 24 Mar 2020 17:27:34 GMT</pubDate>
     <itunes:order>1</itunes:order>
     <itunes:duration>45:52</itunes:duration>
     <link>http://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
