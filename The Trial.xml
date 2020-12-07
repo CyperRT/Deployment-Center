@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>The Trial</title>
+		<description>by Franz Kafka</description>
+		<link>https://cyperrt.github.io/Deployment-Center/The Trial.html</link>
+		<image>
+            <url>https://cyperrt.github.io/Deployment-Center/The Trial/The Trial.png</url>
+			<title>The Trial</title>
+			<link>https://cyperrt.github.io/Deployment-Center/The Trial.html</link>
+		</image>
+		<lastBuildDate>Sat, 28 Mar 2020 02:43:02 GMT</lastBuildDate>
+		<author>Cyper</author>
+		<copyright>Cyper</copyright>
+		<language>en-us</language>
+		<itunes:author>Cyper</itunes:author>
+		<itunes:summary>Cyper&apos;s Deployment Program</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Cyper</itunes:name>
+			<itunes:email>richardtrinh12@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:category text="Books"/>
+		<itunes:image href="https://cyperrt.github.io/Deployment-Center/The Trial/TheTrial.png"/>
+        
+		<item>
+			<title>Beware</title>
+			<description>It goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes, it goes</description>
+            <itunes:order>1</itunes:order>
+			<link>https://cyperrt.github.io/Deployment-Center/Exmilitary.html</link>
+			<guid isPermaLink="true">https://cyperrt.github.io/Deployment-Center/Exmilitary/01%20Beware.mp3</guid>
+			<pubDate>Thu, 16 Jun 1904 12:39:27 GMT</pubDate>
+			<enclosure url="https://cyperrt.github.io/Deployment-Center/Exmilitary/01%20Beware.mp3" length="14657967" type="audio/mpeg"/>
+			<itunes:summary>dfd</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:image href="https://cyperrt.github.io/Deployment-Center/Exmilitary/Death-Grips-Exmilitary.jpg"/>
+		</item>
+   
+	</channel>
+</rss>
