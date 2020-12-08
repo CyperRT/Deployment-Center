@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
-		<title>The Trial</title>
-		<description>by Franz Kafka</description>
+		<title>The Trial Audiobook</title>
+		<description>Written by Franz Kafka and translated by Breon Mitchell, the Trial is the terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information. Whether read as an existential tale, a parable, or a prophecy of the excesses of modern bureaucracy wedded to the madness of totalitarianism, The Trial has resonated with chilling truth for generations of readers.</description>
 		<link>https://cyperrt.github.io/Deployment-Center/The Trial.html</link>
 		<image>
             <url>https://cyperrt.github.io/Deployment-Center/The Trial/The Trial.png</url>
@@ -24,7 +24,7 @@
 		<itunes:image href="https://cyperrt.github.io/Deployment-Center/The Trial/TheTrial.png"/>
         
 		<item>
-			<title>Arrest and Conversation with Frau Grubach, Then Fräulein Bürstner (1_2)</title>
+			<title>Arrest and Conversation with Frau Grubach, Then Fräulein Bürstner (1/2)</title>
 			<description>Someone must have slandered Josef K., for one morning, without having done anything wrong, he was arrested.</description>
             <itunes:order>1</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -36,7 +36,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>Conversation with Frau Grubach, Then Fräulein Bürstner (2_2) and Initial Inquiry</title>
+			<title>Conversation with Frau Grubach, Then Fräulein Bürstner (2/2) and Initial Inquiry</title>
 			<description>The vice president picked up the phone and, while waiting to be put through, spoke across the receiver: “May I ask you something, Herr K.? Will you do me the pleasure of coming to a party on my sailboat Sunday morning? There’ll be quite a few people, I’m sure you’ll know some of them. Among others Hasterer, the public prosecutor. Would you like to come? Please do!” K. tried to concentrate on what the vice president was saying. It was not without importance for him, since this invitation from the vice president, with whom he had never got along particularly well, indicated an attempt at reconciliation on the other’s part, and showed how important K. had become to the bank, and how valuable his friendship, or at least his neutrality, must seem to the bank’s second-highest officer. The invitation humbled the vice president, even if it had merely been delivered across the receiver while waiting for a call to go through. But K. was forced to humble him a second time by replying: “Thank you very much! But unfortunately I’m busy on Sunday, I have a previous engagement.” “Too bad,” the vice president said, and returned to his call, which had just been put through. It was no brief conversation, but in his preoccupied state K. remained standing by the phone the whole time. It wasn’t until the vice president hung up that he came to himself with a start and said, to excuse himself somewhat for having simply stood around, “I just received a call asking me to go somewhere, but they forgot to tell me the time.” “Call them back and ask,” said the vice president. “It’s not that important,” said K., although in doing so his previous excuse, which was already weak enough, crumbled even further. As they walked away the vice president talked of other things, and K. forced himself to answer, but he was really thinking that it would be best to arrive Sunday morning at nine, since that was when courts opened session on workdays.</description>
             <itunes:order>2</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -48,7 +48,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>In the Empty Courtroom, The Student, The Offices (1_2)</title>
+			<title>In the Empty Courtroom, The Student, The Offices (1/2)</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>3</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -60,7 +60,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>In the Empty Courtroom, The Student, The Offices (2_2), The Flogger, and The Uncle, Leni (1_2)</title>
+			<title>In the Empty Courtroom, The Student, The Offices (2/2), The Flogger, and The Uncle, Leni (1/2)</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>4</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -72,7 +72,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>The Uncle, Leni (2_2) and Lawyer, Manufacturer, Painter (1_3)</title>
+			<title>The Uncle, Leni (2/2) and Lawyer, Manufacturer, Painter (1/3)</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>5</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -84,7 +84,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>Lawyer, Manufacturer, Painter (2_3)</title>
+			<title>Lawyer, Manufacturer, Painter (2/3)</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>6</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -96,7 +96,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>Lawyer, Manufacturer, Painter (3_3) and Block, The Merchant, Dismissal of the Lawyer (1_2)</title>
+			<title>Lawyer, Manufacturer, Painter (3/3) and Block, The Merchant, Dismissal of the Lawyer (1/2)</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>7</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -108,7 +108,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>Block, The Merchant, Dismissal of the Lawyer (2_3)</title>
+			<title>Block, The Merchant, Dismissal of the Lawyer (2/3)</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>8</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -120,7 +120,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>Block, The Merchant, Dismissal of the Lawyer (3_3) and In the Cathedral (1_2)</title>
+			<title>Block, The Merchant, Dismissal of the Lawyer (3/3) and In the Cathedral (1/2)</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>9</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -132,7 +132,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>In the Cathedral (2_2) and The End</title>
+			<title>In the Cathedral (2/2) and The End</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>10</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -144,7 +144,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>Publisher's Note, Translator's Preface, and B.'s Friend (1_2)</title>
+			<title>Publisher's Note, Translator's Preface, and B.'s Friend (1/2)</title>
 			<description>It would have been so pointless to kill himself that, even if he had wanted to, the pointlessness would have made him unable.</description>
             <itunes:order>11</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
@@ -156,7 +156,7 @@
 			<itunes:image href="https://cyperrt.github.io/Deployment-Center/The%20Trial/TheTrial.png"/>
 		</item>
         <item>
-			<title>B.'s Friend (2_2), Public Prosecutor, To Elsa, Struggle with the Vice President, the Building, Journey to His Mother</title>
+			<title>B.'s Friend (2/2), Public Prosecutor, To Elsa, Struggle with the Vice President, the Building, and Journey to His Mother</title>
 			<description>The rest of the Trial fragments, played in sequence.</description>
             <itunes:order>12</itunes:order>
 			<link>https://cyperrt.github.io/Deployment-Center/The%20Trial.html</link>
