@@ -33,6 +33,16 @@ h4 {
     padding: 180pt
 }
 
+h5 {
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    padding: 280pt
+}
+
 body {
     background-color: black;
 }
@@ -93,4 +103,24 @@ td {
     width: 70pt;
     line-height: 40px;
     text-align: center;
+}
+
+.parallaxS {
+      /* The image used */
+  background-image: url(KieranKlee.jpg);
+  background-blend-mode: multiply;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  /*  height */
+  min-height: 1000px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
