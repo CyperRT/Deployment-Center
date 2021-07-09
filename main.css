@@ -9,8 +9,7 @@ h1 {
     text-align: center;
     font-weight: 500;
     font-size: 74pt;
-    position: relative;
-    transform: translateY(300%);
+    padding-top: 24%
 }
 
 h2 {
@@ -20,7 +19,6 @@ h2 {
     text-align: center;
     font-weight: 300;
     font-size: 34pt;
-    transform:translateY(650%)
 }
 
 h4 {
@@ -40,7 +38,7 @@ h5 {
     background-color: black;
     font-family: 'Roboto', sans-serif;
     text-align: left;
-    padding: 280pt
+    padding: 20%
 }
 
 body {
@@ -74,8 +72,6 @@ footer {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 8pt;
-    margin-top:100pt;
-    padding: 0pt
 }
 
 td:hover {
@@ -115,7 +111,7 @@ td {
   left: 0;
 
   /*  height */
-  min-height: 1000px; 
+  min-height: 100%; 
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
