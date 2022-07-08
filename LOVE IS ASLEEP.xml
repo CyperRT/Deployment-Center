@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[LOVE IS ASLEEP]]></title>
+		<description><![CDATA[Lo-fi version of Madeon's LOVE YOU BACK."]]></description>
+		<link>https://cyperrt.github.io/Deployment-Center/LOVE IS ASLEEP/LOVE-IS-ASLEEP.mp3</link>
+		<image>
+            <url>https://cyperrt.github.io/Deployment-Center/LOVE IS ASLEEP/day2-web.jpg</url>
+			<title>LOVE IS ASLEEP</title>
+		</image>
+		<lastBuildDate>Sat, 28 Mar 2020 02:43:02 GMT</lastBuildDate>
+		<author>Cyper</author>
+		<copyright>Cyper</copyright>
+		<language>en-us</language>
+		<itunes:author>Cyper</itunes:author>
+		<itunes:summary>Cyper&apos;s Deployment Program</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Cyper</itunes:name>
+			<itunes:email>richardtrinh12@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:category text="Books"/>
+		<itunes:image href="https://cyperrt.github.io/Deployment-Center/LOVE IS ASLEEP/day2-web.jpg"/>
+        
+        <item>
+			<title>LOVE IS ASLEEP</title>
+			<description>Lo-fi version of Madeon's LOVE YOU BACK</description>
+            <itunes:order>1</itunes:order>
+			<link>https://cyperrt.github.io/Deployment-Center/Ulysses.html</link>
+			<guid isPermaLink="true">https://cyperrt.github.io/Deployment-Center/LOVE IS ASLEEP/LOVE-IS-ASLEEP.mp3</guid>
+			<pubDate>Fri, 17 Jun 1904 02:40:27 GMT</pubDate>
+			<enclosure url="https://cyperrt.github.io/Deployment-Center/LOVE IS ASLEEP/LOVE-IS-ASLEEP.mp3" length="4827428" type="audio/mpeg"/>
+			<itunes:summary>Lo-fi version of Madeon's LOVE YOU BACK</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:image href="https://cyperrt.github.io/Deployment-Center/LOVE IS ASLEEP/day2-web.jpg"/>
+		</item>
+	</channel>
+</rss>
